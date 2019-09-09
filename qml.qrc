@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SerialPort.qml</file>
+        <file>SerialPortMessage.qml</file>
+        <file>MyButton.qml</file>
+        <file>TextScreen.qml</file>
+        <file>TextInputOne.qml</file>
+        <file>MyCheckBox.qml</file>
+        <file>image/checked.png</file>
+        <file>image/unchecked.png</file>
+        <file>ButtonOne.qml</file>
+        <file>Observation.qml</file>
+        <file>ChoiceTask.qml</file>
+        <file>MyChart.qml</file>
+        <file>image/boat.png</file>
+    </qresource>
+</RCC>
